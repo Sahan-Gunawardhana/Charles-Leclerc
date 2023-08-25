@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Tapestry|Titillium+Web|Open+Sans'
+);
+
+
+#Photo{
+    height: 705px;
+    margin: 15px;
+    float: left;
+    width: 355px;
+    background-color: rgb(161, 16, 16);
+    margin-top: 36px;
+}
+
+#myname, #jobtitle{
+    color: rgb(244, 242, 242);
+}
+
+
+#intro{
+    float: right;
+    text-align: justify;
+    width: 1050px;
+    margin: 5px;
+    margin-top: 15px;
+}
+
+
+
+nav a{
+    text-decoration: none;
+    margin-right: 8px;
+    color: black;
+    border-bottom: 2px rgb(166, 0, 0) solid;
+}
+
+#nav{
+    float: right;
+    margin-right: 5px;
+}
+
+body{
+    background-color: rgb(201, 197, 197);
+    font-family:'Titillium Web', fantasy;
+}
+
+a:hover{
+    background-color: rgb(166, 0, 0);
+}
+
+
+#abouthead{
+    color: white;
+    background-color: rgb(166, 0, 0);
+    width: 125px;
+    height: 30px;
+}
+
+/*serif fonts have edges to the letters, sans serif doesnt have edges. Serifs are for paper and sans serif is for screens.*/
+
+
